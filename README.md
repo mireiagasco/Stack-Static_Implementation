@@ -1,4 +1,4 @@
-# Static Implementation of a stack with Java
+# Static Implementation Of A Stack With Java
 
 The methods implemented are the following:\
  -> Constructor: creates an empty stack. The maximum size of the stack must be indicated as an argument.\
