@@ -6,7 +6,7 @@ The methods implemented are the following:\
  -> Pop: removes and returns the integer on the top of the stack.\
  -> Empty: returns a boolean indicating if the stack is empty or not.\
  -> Size: returns an integer indicating the size of the stack.\
- -> Peek: returns the element on the top of the stack without removing it.\
+ -> Peek: returns the element on the top of the stack without removing it.
 
 The exceptions used are:\
 -> StackIsFull: in case the push() method cannot add a new element to the stack because it's already full.\
