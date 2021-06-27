@@ -11,7 +11,7 @@ The methods implemented are the following:
 * `size()`: returns an integer indicating the size of the stack.
 * `peek()`: returns the element on the top of the stack without removing it.
 
-##Exceptions Implemented
+## Exceptions Implemented
 
 The exceptions used are:
 * `StackIsFull`: in case the `push()` method cannot add a new element to the stack because it's already full.
